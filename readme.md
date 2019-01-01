@@ -1,3 +1,11 @@
+<p>1.in XMP import atp.sql</p>
+<p>2. download fresh laravel folder </p>
+<p>3.repace folder app,public ,views,routes</p>
+<p>4.Please write the bellow line  in cmd</p>
+<p>composer require nicolaslopezj/searchable</p>
+
+
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
