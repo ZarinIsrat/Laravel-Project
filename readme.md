@@ -1,8 +1,13 @@
-<p>1.in XMP import atp.sql</p>
-<p>2. download fresh laravel folder </p>
+<p>1.install Xampp</p>
+<p>1.in XMPP import atp.sql</p>
+<p>install composer</p>
+<p>1.in cmd write composer create-project laravel/laravel my_laravel</p>
 <p>3.repace folder app,public ,views,routes</p>
 <p>4.Please write the bellow line  in cmd</p>
 <p>composer require nicolaslopezj/searchable</p>
+<p>php artisan serve<p>
+<p>open brawser<p>
+<p> write localhost:8000 in url<p>
 
 
 
